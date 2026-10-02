@@ -63,7 +63,7 @@ A step-by-step technical guide explaining how to build a Python CI pipeline usin
 * Python
 * Step-by-step technical writing
 
-[View project →](projects/github-actions-cicd/README.md)
+[View project →]([url](https://github.com/Divinesamy-sys/technical-writing-portfolio/tree/c476a5b07d31ebde6183cfa671be5d7d1260fb5a/projects/crypto%20web3%20articles))
 
 ### Crypto & Web3 Documentation
 
