@@ -49,7 +49,7 @@ The documentation includes product guides, cloud storage integrations, Windows A
 * Technical research
 * Documentation workflows
 
-[View AnyScan Documentation →](projects/anyscan-documentation/README.md)
+[View AnyScan Documentation →](projects/anysoft product documentation)
 
 ### GitHub Actions CI/CD Guide
 
