@@ -24,8 +24,6 @@ My work focuses on making complex technical information easier to understand, na
 
 * Software and cloud platforms
 * Cloud storage integrations
-* Git & GitHub
-* GitHub Actions
 * Crypto & Web3
 * Blockchain technology
 * Documentation workflows
