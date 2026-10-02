@@ -96,7 +96,7 @@ Technical content explaining crypto, blockchain, Web3 concepts, tools, and workf
 ### Tools & Technologies
 
 * Markdown
-* Git
+* Gitlab
 * GitHub
 * Cloud Platforms
 * Windows
@@ -115,7 +115,7 @@ I focus on creating documentation that is:
 ## Contact
 
 * LinkedIn: [Add your LinkedIn profile]
-* Email: [Add your email]
+* Email: [divinesamy@gmail.com]
 
 ---
 
