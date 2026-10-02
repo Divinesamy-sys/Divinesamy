@@ -1,4 +1,4 @@
-# Hi, I'm Oluwaseun 👋
+# Hi, I'm Oluwaseun
 
 **Technical Writer | Software Documentation | Developer Education | Crypto & Web3**
 
