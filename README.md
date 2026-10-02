@@ -108,11 +108,11 @@ Technical content explaining crypto, blockchain, Web3 concepts, tools, and workf
 
 I focus on creating documentation that is:
 
-* **Clear** — easy to understand and navigate
-* **Practical** — focused on helping users complete tasks
-* **Structured** — logically organised and easy to scan
-* **Accurate** — based on careful technical research
-* **User-focused** — written around real user needs and problems
+* **Clear** - easy to understand and navigate
+* **Practical** - focused on helping users complete tasks
+* **Structured** - logically organised and easy to scan
+* **Accurate** - based on careful technical research
+* **User-friendly** - written around real user needs and problems
 
 ## Contact
 
