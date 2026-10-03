@@ -1,6 +1,6 @@
 # Hi, I'm Oluwaseun Ezekiel
 
-**Technical Writer | Software Documentation | SEO & Product Content | Crypto & Web3**
+**Technical Writer | Software Documentation | Crypto & Web3 | SEO & Product Content**
 
 I write and create clear, practical, and user-focused technical content that helps people understand products, software, tools, and technical concepts.
 
