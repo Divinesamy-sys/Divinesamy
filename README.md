@@ -1,103 +1,137 @@
-# Hi, I'm Oluwaseun
+# Hi, I'm Oluwaseun Ezekiel
 
-**Technical Writer | Software Documentation | Developer Education | Crypto & Web3**
+**Technical Writer | Software Documentation | SEO & Product Content | Crypto & Web3**
 
-I create clear, practical documentation that helps users and developers understand technical products, tools, and workflows.
+I write and create clear, practical, and user-focused technical content that helps people understand products, software, tools, and technical concepts.
 
-My work focuses on making complex technical information easier to understand, navigate, and apply.
+My experience includes **software documentation, product documentation, SEO content writing, technical product writing, and educational content**, with a focus on turning complex information into content that is easy to understand and apply.
 
 ## What I Do
 
 * Technical documentation
 * Software documentation
+* Product documentation
 * User guides
 * How-to guides
 * Troubleshooting documentation
-* Product documentation
-* Developer guides
-* Technical tutorials
+* SEO product content
+* Technical product writing
+* Developer-focused documentation
+* Crypto & Web3 educational content
 * Technical research
-* Crypto & Web3 content
-* Developer-focused educational content
+* Information architecture
 
 ## Technical Topics
 
 * Software and cloud platforms
 * Cloud storage integrations
-* Crypto & Web3
-* Blockchain technology
-* Documentation workflows
+* Document management workflows
 * Permissions and access control
 * Windows-based applications
+* Blockchain technology
+* Crypto & Web3
+* Git and GitHub
+* Documentation workflows
 
 ## Featured Projects
 
-### AnySoft Documentation
+### AnySoft Product Documentation
 
-A technical documentation project covering a document scanning, printing  and cloud platform.
-
-The documentation includes product guides, cloud storage integrations, Windows Agent configuration, permissions, document workflows, troubleshooting, and best practices.
+A software documentation project covering **AnyScan and AnyPrint**, including document scanning, printing, cloud storage integrations, Windows Agent configuration, permissions, document workflows, administration, troubleshooting, and best practices.
 
 **Skills demonstrated:**
 
 * Software documentation
+* Product documentation
 * User documentation
 * How-to documentation
 * Troubleshooting
 * Cloud integrations
+* Permissions and access control
 * Information architecture
 * Technical research
 * Documentation workflows
 
-[View AnyScan Documentation →]([projects/anysoft product documentation](https://github.com/Divinesamy-sys/technical-writing-portfolio/tree/8ae725361066c3069b0dff6f49d0f14ef0eef5a0/projects/anysoft%20product%20documentation.))
+[View AnySoft Documentation →](projects/anysoft-product-documentation/)
 
-### GitHub Actions CI/CD Guide
+### SEO & Product Content
 
-A step-by-step technical guide explaining how to build a Python CI pipeline using GitHub Actions.
+A collection of **50+ SEO-focused product articles** covering products, features, specifications, applications, and user benefits.
+
+My product-content experience includes researching technical specifications, incorporating target keywords naturally, creating SEO titles and meta descriptions, structuring long-form product pages, and translating technical product information into clear, customer-focused content.
 
 **Skills demonstrated:**
 
-* GitHub
-* GitHub Actions
-* CI/CD
-* Python
-* Step-by-step technical writing
+* SEO content writing
+* Product content writing
+* Technical product research
+* Keyword-focused writing
+* Meta titles and descriptions
+* Feature and benefit writing
+* Product specifications
+* Commercial content
+* Search-intent writing
 
-[View project →]([url](https://github.com/Divinesamy-sys/technical-writing-portfolio/tree/c476a5b07d31ebde6183cfa671be5d7d1260fb5a/projects/crypto%20web3%20articles))
+[View SEO Product Content →](projects/seo-product-content/)
 
 ### Crypto & Web3 Documentation
 
-Technical content explaining crypto, blockchain, Web3 concepts, tools, and workflows in a clear and accessible way.
+A collection of educational technical articles explaining blockchain and Web3 concepts in a clear and accessible way.
+
+Topics include blockchain transactions, crypto wallets, smart contracts, blockchain nodes, and decentralized finance.
 
 **Skills demonstrated:**
 
 * Technical research
 * Technical writing
 * Simplifying complex concepts
-* Crypto & Web3 terminology
+* Blockchain terminology
+* Crypto & Web3 concepts
 * Educational content
+* User-focused explanations
 
-[View project →](projects/crypto-web3/README.md)
+[View Crypto & Web3 Documentation →](projects/crypto-web3/)
+
+### Git & GitHub Documentation
+
+A collection of practical guides explaining Git and GitHub concepts and workflows for beginners and technical teams.
+
+Topics include Git vs GitHub, creating repositories, and creating pull requests.
+
+**Skills demonstrated:**
+
+* Developer documentation
+* Procedural writing
+* Step-by-step guides
+* Git
+* GitHub
+* Technical research
+* Troubleshooting documentation
+
+[View Git & GitHub Documentation →](projects/git-github-documentation/)
 
 ## Skills
 
-### Writing
+### Technical Writing
 
 * Technical Writing
 * Software Documentation
+* Product Documentation
 * User Documentation
 * How-to Guides
 * Troubleshooting Documentation
-* Developer Guides
+* Developer Documentation
 * Technical Tutorials
 * Information Architecture
 * Technical Research
+* SEO Product Content
 
 ### Tools & Technologies
 
 * Markdown
-* Gitlab
+* Git
 * GitHub
+* GitLab
 * Cloud Platforms
 * Windows
 * Crypto & Web3
@@ -106,17 +140,23 @@ Technical content explaining crypto, blockchain, Web3 concepts, tools, and workf
 
 I focus on creating documentation that is:
 
-* **Clear** - easy to understand and navigate
-* **Practical** - focused on helping users complete tasks
-* **Structured** - logically organised and easy to scan
-* **Accurate** - based on careful technical research
-* **User-friendly** - written around real user needs and problems
+* **Clear** — easy to understand and navigate
+* **Practical** — focused on helping users complete tasks
+* **Structured** — logically organised and easy to scan
+* **Accurate** — based on careful research and verification
+* **User-focused** — written around real user needs and problems
+
+## Portfolio
+
+This repository contains selected samples of my work across **software documentation, product content, developer documentation, and Crypto & Web3 education**.
+
+My portfolio combines professional writing experience with independently developed technical writing projects.
 
 ## Contact
 
 * LinkedIn: [Add your LinkedIn profile]
-* Email: [divinesamy@gmail.com]
+* Email: [[divinesamy@gmail.com](mailto:divinesamy@gmail.com)]
 
 ---
 
-*This portfolio contains selected technical writing samples and documentation projects.*
+*This portfolio contains selected writing samples and documentation projects.*
