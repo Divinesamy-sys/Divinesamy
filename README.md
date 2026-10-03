@@ -52,7 +52,7 @@ A software documentation project covering **AnyScan and AnyPrint**, including do
 * Technical research
 * Documentation workflows
 
-[View AnySoft Documentation →](projects/anysoft product documentation.)
+[View AnySoft Documentation →](url)
 
 ### SEO & Product Content
 
