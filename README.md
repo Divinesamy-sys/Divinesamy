@@ -90,7 +90,7 @@ Topics include blockchain transactions, crypto wallets, smart contracts, blockch
 * Educational content
 * User-focused explanations
 
-[View Crypto & Web3 Documentation →](projects/crypto-web3/)
+[View Crypto & Web3 Documentation →](https://github.com/Divinesamy-sys/Divinesamy/tree/c7b6428be2133c45c4e52e4d59786494567728e6/projects/crypto%20web3%20articles)
 
 ### Git & GitHub Documentation
 
