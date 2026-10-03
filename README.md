@@ -108,7 +108,7 @@ Topics include Git vs GitHub, creating repositories, and creating pull requests.
 * Technical research
 * Troubleshooting documentation
 
-[View Git & GitHub Documentation →](projects/git-github-documentation/)
+[View Git & GitHub Documentation →](https://github.com/Divinesamy-sys/Divinesamy/tree/6d9b6b69f2c3b89648fa41db83b124064840fa85/projects/Git%20Documentation%20)
 
 ## Skills
 
