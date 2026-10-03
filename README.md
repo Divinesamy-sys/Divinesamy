@@ -141,11 +141,11 @@ Topics include Git vs GitHub, creating repositories, and creating pull requests.
 
 I focus on creating documentation that is:
 
-* **Clear** — easy to understand and navigate
-* **Practical** — focused on helping users complete tasks
-* **Structured** — logically organised and easy to scan
-* **Accurate** — based on careful research and verification
-* **User-focused** — written around real user needs and problems
+* **Clear** - easy to understand and navigate
+* **Practical** - focused on helping users complete tasks
+* **Structured** - logically organised and easy to scan
+* **Accurate** - based on careful research and verification
+* **User-focused** - written around real user needs and problems
 
 ## Portfolio
 
