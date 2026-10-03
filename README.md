@@ -126,16 +126,14 @@ Topics include Git vs GitHub, creating repositories, and creating pull requests.
 * Technical Research
 * SEO Product Content
 
-### Tools & Technologies
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 | Category | Core Expertise | Tools & Platforms |
 | :--- | :--- | :--- |
 | **Technical Writing** | Software Documentation, User Guides | Markdown, Git, GitHub |
 | **Product & SEO** | Feature-Benefit Writing, Search-Intent Articles | Google Analytics, SEO Tools |
 | **Specialized Domains** | Crypto & Web3 Architecture, DeFi | Cloud Storage APIs |
-| **Information Architecture** | Procedural Workflows, Step-by-Step Guides | Notion, GitBook |
-
+| **Information Architecture** | Procedural Workflows, Step-by-Step Guides | GitBook |
 
 ## Documentation Approach
 
