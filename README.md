@@ -52,7 +52,7 @@ A software documentation project covering **AnyScan and AnyPrint**, including do
 * Technical research
 * Documentation workflows
 
-[View AnySoft Documentation →](url)
+[View AnySoft Documentation →](https://github.com/Divinesamy-sys/Divinesamy/tree/4201c636ac12c0d48f5300abc6cab2b95acc41df/projects/anysoft%20product%20documentation.)
 
 ### SEO & Product Content
 
