@@ -72,7 +72,7 @@ My product-content experience includes researching technical specifications, inc
 * Commercial content
 * Search-intent writing
 
-[View SEO Product Content →](projects/seo-product-content/)
+[View SEO Product Content →](https://github.com/Divinesamy-sys/Divinesamy/tree/49d20df70f57741144f250c8c53b4a2c823de4c1/projects/SEO%20and%20Product%20Content)
 
 ### Crypto & Web3 Documentation
 
